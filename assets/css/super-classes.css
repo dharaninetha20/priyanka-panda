@@ -52,7 +52,7 @@ p{
     border-radius: 35px;
     line-height: 20px;
     text-decoration: none;
-    box-shadow: 0 0 85px 0 #e9eefc;
+    /* box-shadow: 0 0 85px 0 #e9eefc; */
     border: 1px solid transparent;
     transition-duration: .3s;
     transition-property: transform;
@@ -64,7 +64,7 @@ p{
     /* border-color: var(--light-purple-color);
     background: var(--light-purple-color);
     transform: translateY(-8px); */
-    transform: rotatex(20deg) rotateY(20deg);
+    /* transform: rotatex(20deg) rotateY(20deg); */
     /* background: linear-gradient(#fca61f, #000000); */
 
 }
@@ -83,7 +83,7 @@ p{
     border-radius: 35px;
     line-height: 20px;
     text-decoration: none;
-    box-shadow: 0 0 85px 0 #e9eefc;
+  
     border: 1px solid transparent;
     transition-duration: .3s;
     transition-property: transform;
