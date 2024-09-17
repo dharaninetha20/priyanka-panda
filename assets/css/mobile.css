@@ -1091,6 +1091,18 @@
     .portfolio-img-con .filterDiv:nth-child(2), .portfolio-img-con .filterDiv:nth-child(3), .portfolio-img-con .filterDiv:nth-child(4), .portfolio-img-con .filterDiv:last-child{
         padding: 0;
     }
+    .paddingtop {
+        padding-top: 65px !important;
+    }
+    .portfolio-con {
+        height: 630px;
+    }
+    .personal{
+        margin-top: 60px;
+    }
+    #banner-right-img1{
+        width: 99% !important;
+    }
 }
 @media only screen and (max-width: 450px){
     .portfolio-img-title {
@@ -1101,4 +1113,5 @@
         right: 34px;
         top: 0;
     }  
+    
 }

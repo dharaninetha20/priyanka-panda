@@ -1498,7 +1498,6 @@ body{
 } */
 
 
-
     b{ 
     color: red;
     }
@@ -1617,6 +1616,14 @@ body{
     }
     .slider{
         border: 1px solid #fca61f;
-        padding: 10px;
+        padding: 30px;
         border-radius: 20px;
     }
+
+
+
+
+
+
+
+    
