@@ -910,7 +910,7 @@ padding-bottom: 100px;
     resize: none;
     margin-bottom: 29px;
 }
-.contact-form button{
+/* .contact-form button{
     border: none;
     padding: 19px 64px 18px;
     background: var(--accent);
@@ -924,7 +924,7 @@ padding-bottom: 100px;
     transition-property: transform;
     transition-timing-function: ease-out;
     border: 1px solid transparent;
-}
+} */
 .contact-form button:hover{
     /* border-color: var(--light-purple-color);
     background: var(--light-purple-color);

@@ -44,7 +44,7 @@ p{
     font-size: 22px;
     line-height: 33px;
 }
-.contact a{
+/* .contact a{
     background: var(--accent);
     color: var(--white-color);
     padding: 16px 43px 15px;
@@ -53,12 +53,11 @@ p{
     border-radius: 35px;
     line-height: 20px;
     text-decoration: none;
-    /* box-shadow: 0 0 85px 0 #e9eefc; */
     border: 1px solid transparent;
     transition-duration: .3s;
     transition-property: transform;
     transition-timing-function: ease-out;
-}
+} */
 .contact a:hover,
 .generic-btn a:hover
 {
