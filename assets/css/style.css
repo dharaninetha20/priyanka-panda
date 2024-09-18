@@ -311,7 +311,8 @@ body{
     position: relative;
 }
 .service-box-item-content a:hover{
-    color: var(--light-purple-color);
+    /* color: var(--light-purple-color); */
+    color: #2d2d2d;
 }
 .service-box-item-content a::after{
     left: 0;
@@ -321,7 +322,8 @@ body{
     content: '';
     position: absolute;
     transition: ease-in-out 0.3s;
-    background: var(--light-purple-color);
+    /* background: var(--light-purple-color); */
+    background: #2d2d2d;
 }
 .service-box-item-content a:hover::after {
     width: 100%;
