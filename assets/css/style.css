@@ -1162,7 +1162,7 @@ padding-bottom: 100px;
 /***********/
 #button {
     display: inline-block;
-    background-color: #FF9800;
+    background-color: #b1882e;
     /* width: 82px;
     height: 82px; */
     width: 50px;
@@ -1185,8 +1185,10 @@ padding-bottom: 100px;
 }
 @-webkit-keyframes spineer {
     from {
+    /* box-shadow: 0 0 0 0 rgba(255, 161, 34, .99) */
     box-shadow: 0 0 0 0 rgba(255, 161, 34, .99)
     }
+    
     to {
     box-shadow: 0 0 0 45px rgba(255, 161, 34, .01)
     }
@@ -1621,7 +1623,7 @@ padding-bottom: 100px;
     display: none;
     }
     .slider{
-        border: 1px solid #fca61f;
+        border: 1px solid #b1882e;
         padding: 30px;
         border-radius: 20px;
     }
@@ -1681,13 +1683,13 @@ padding-bottom: 100px;
       /*--- btn-1 ---*/
       .btn-1::before {
         /* background-color: rgb(28, 31, 30); */
-        background-color: #fca61f;
+        background-color: #b1882e;
         transition: 0.3s ease-out;
       }
       .btn-1 span {
         color: rgb(255,255,255);
         /* border: 1px solid rgb(28, 31, 30); */
-        border: 2px solid #fca61f;
+        border: 2px solid #b1882e;
         transition: 0.2s 0.1s;
       }
       .btn-1 span a{
@@ -1722,6 +1724,7 @@ padding-bottom: 100px;
       }
       #logos h3{
         color: var(--accent) !important;
+        font-weight: 800;
       }
     
     a:hover{

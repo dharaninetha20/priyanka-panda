@@ -1103,6 +1103,9 @@
     #banner-right-img1{
         width: 99% !important;
     }
+    .btn-holder{
+        justify-content: center;
+    }
 }
 @media only screen and (max-width: 450px){
     .portfolio-img-title {

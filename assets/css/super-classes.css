@@ -14,12 +14,13 @@
     /* --primary-color:#3f396d; */
     --primary-color:#2d2d2d;
     --secondary-color:#07003b;
-    --accent:#fca61f;
+    /* --accent:#fca61f; */
     --text-color: #7d7789;
     --off-white-color: #f0f4ff;
     --light-purple-color:#6f34fe;
     --white-color:#fff;
     --light-grey-color:#f2f2ff;
+    --accent:#b1882e;
   }
 h1{
     font-size: 85px;
