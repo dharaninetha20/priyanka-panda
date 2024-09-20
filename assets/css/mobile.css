@@ -865,6 +865,11 @@
     .blog-model-con .blog-box-item {
         width: 100%;
     }
+    .about-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     
 }
 @media only screen and (max-width: 575px){
@@ -1113,6 +1118,11 @@
     .header-con .nav-item a {
         color: #2d2d2d !important;
     }
+    .about-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
 @media only screen and (max-width: 450px){
     .portfolio-img-title {
@@ -1123,5 +1133,10 @@
         right: 34px;
         top: 0;
     }  
+    .about-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     
 }
