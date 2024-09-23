@@ -1163,7 +1163,8 @@ padding-bottom: 100px;
     top: 132px;
     left: 0;
     /* background: url(../image/circle-bg-left-img.png) no-repeat top left; */
-    background: url(../image/semi-circle.png) no-repeat top left;
+    /* background: url(../image/semi-circle.png) no-repeat top left; */
+    background: url(../image/yellow-circle-right.png) no-repeat top left;
     animation: right-mover 1s infinite alternate;
     -webkit-animation: right-mover 1s infinite alternate;
 }
@@ -1639,7 +1640,7 @@ padding-bottom: 100px;
     }
     .slider{
         border: 1px solid #b1882e;
-        padding: 30px;
+        padding: 15px;
         border-radius: 20px;
     }
 
