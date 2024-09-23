@@ -891,7 +891,8 @@ padding-bottom: 100px;
 .contact-form textarea{
     background: #fefeff;
     border: none;
-    box-shadow: 0 0 85px 0 #e9eefc;
+    /* box-shadow: 0 0 85px 0 #e9eefc; */
+    box-shadow: 0 0 20px 0 #e9eefc;
     font-size: 16px;
     color: var(--text-color);
     padding: 17px 30px;
